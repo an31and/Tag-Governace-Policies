@@ -1,6 +1,6 @@
 # Cost_Center Tag Governance Framework
 
-**Author**: Anand Lakhera (an.31@gmail.com)  
+**Author**: Anand Lakhera (an.31and@gmail.com)  
 **Version**: 1.0.0  
 **Last Updated**: November 26, 2025  
 **Open Source**
