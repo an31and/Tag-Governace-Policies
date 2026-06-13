@@ -865,13 +865,13 @@ variable "cost_center" {
 ## Support & Contact
 
 **Author**: Anand Lakhera  
-**Email**: anand.lakhera@ahead.com  
-**Organization**: AHEAD  
+**Email**: an.31and@gmail.com 
+**Organization**: Open-Source 
 **Team**: Cloud FinOps Engineering
 
 **For Support**:
 - Slack: #azure-governance
-- Email: anand.lakhera@ahead.com
+- Email: an.31and@gmail.com
 - Office Hours: [Schedule TBD]
 
 ---
@@ -890,7 +890,7 @@ variable "cost_center" {
 
 ## License & Usage
 
-This policy framework is internal to AHEAD. For questions about external use or adaptation, contact anand.lakhera@ahead.com.
+This policy framework is Open. For questions about  adaptation, contact an.31and@gmail.com
 
 ---
 
